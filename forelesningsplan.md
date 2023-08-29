@@ -7,5 +7,5 @@
 | *Preparation*    |         | We use the open-source programming software R, along with its graphical user interface, RStudio, for all the estimations. We highly recommend you download these onto your personal computer and spend some time acquainting yourself with the RStudio interface. Download R from [here](https://cloud.r-project.org/){:target="blank"}, and RStudio from [here](https://posit.co/download/rstudio-desktop/){:target="blank"}. Alternatively, you can access R through the Jupyter notebook interface using your web-browser [here](https://jupyter.uit.no){:target="blank"}. Use your UiT username and password.   |
 | 1                | 17/08    | Review of Consumer Theory  |
 | 2                | 24/08    | General market theory restrictions  <br />   <br />  [Home work](https://uit.instructure.com/courses/31424/files?preview=2573652){:target='_blank_'}       |
-| 3                |  30/08  |     |
+| 3                |  30/08  | Seminar:<br /> We will look at the Appendex part. That is estimation of linear statistical models.  <br /> Check the course syllbus for the reading materials.<br />  Reading materials for SUR model is available on Canvas <br />[R codes](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/R%20codes%20for%20chapter_10%2C%2011_and_%20SUR.R){:target='_blank_'} |
 | 4                |  31/08  |     |
