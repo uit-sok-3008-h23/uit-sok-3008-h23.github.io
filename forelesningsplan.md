@@ -11,4 +11,7 @@
 | 4                |  31/08  | Continuted working on estimation of statistical models    |
 | 5                |  05/09  | we will continue looking at theoretical restrictions  |
 | 6                |  07/09  |     |
-| 7                |    |     |
+| 7                |   13/09 | Weak separability, Utility tree, <br /> <br /> Rotterdam model:- Properties, derivation, elasticity formulas, restrictions     |
+| 8                |   14/09 |     |
+| 9                |    |     |
+| 10               |    |     |
