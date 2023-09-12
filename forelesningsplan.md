@@ -12,6 +12,6 @@
 | 5                |  05/09  | we will continue looking at theoretical restrictions  |
 | 6                |  07/09  |     |
 | 7                |   13/09 | Weak separability, Utility tree, <br /> <br /> Rotterdam model:- Properties, derivation, elasticity formulas, restrictions     |
-| 8                |   14/09 | Estimate Rotterdam Model using R ([Guiding R code for Rotterdam model]()())    |
+| 8                |   14/09 | Estimate Rotterdam Model using R <br/> ([Guiding R code for Rotterdam model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Rotterdam_model_student%20.R){:target='_blank_'})    |
 | 9                |    |     |
 | 10               |    |     |
