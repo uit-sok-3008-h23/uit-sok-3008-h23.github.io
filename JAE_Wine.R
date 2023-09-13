@@ -1,5 +1,5 @@
 
-# I downloaded the wine data, and saved it on my server account
+# Downloaded the wine data, and saved it on my server account
 library(haven)
 friberg_gronqvist_wine_data <- read_dta("C:/Users/dki007/OneDrive - UiT Office 365/Econometrics_Teaching_Fall_2022/SOK-3008_Fall_2022/friberg_gronqvist_wine_data.dta")
 
