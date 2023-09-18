@@ -14,6 +14,6 @@
 | 7                |   13/09 | Weak separability, Utility tree, <br /> <br /> Rotterdam model:- Properties, derivation, elasticity formulas, restrictions     |
 | 8                |   14/09 |    |
 | Deadline (16:00) |  27/09  |  [Where to get data for your term paper 1](https://docs.google.com/document/d/1_I5A1d35GKm21KaHXcMOssVhpRlI5fPO486Q7INaFYE/edit?usp=sharing){:target='_blank_'}. <br/>  <br/>  Deadline (16:00) for hand in of proposal for first term-paper with theme/data & name (and group members)    |
-| 9               |  18/09  |  Estimate Rotterdam Model using R <br/> [Guiding R code for Rotterdam model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Rotterdam_model_student%20.R){:target='_blank_'}    |
+| 9               |  18/09  |  Estimate Rotterdam Model using R <br/> [Guiding R code for Rotterdam model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Rotterdam_model_student%20.R){:target='_blank_'} <br /> <br /> [Complete cod for estimating Rotterdam model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Rotterdam_model_complete_2.R){:target='_blank_'}    |
 |10 | | |
 |11 | | |
