@@ -19,5 +19,5 @@
 |11 | 21/09 |Estimate AIDS Model using R <br /> <br /> [erer package](https://cran.r-project.org/web/packages/erer/erer.pdf){:target='_blank_'} <br />  [micEconAids](https://cran.r-project.org/web/packages/micEconAids/micEconAids.pdf){:target='_blank_'} |
 |12 |26/09||
 |13|28/09|Present your research topic and data for term paper one <br /> (5-10 min presentation)|
-|14||||
-|15||||
+|14|||
+|15|||
