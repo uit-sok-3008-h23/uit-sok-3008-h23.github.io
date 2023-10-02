@@ -19,5 +19,6 @@
 |11 | 21/09 |Estimate AIDS Model using R <br /> <br /> [erer package](https://cran.r-project.org/web/packages/erer/erer.pdf){:target='_blank_'} <br />  [micEconAids](https://cran.r-project.org/web/packages/micEconAids/vignettes/micEconAids_vignette.pdf){:target='_blank_'} <br /> <br />  [R code for estimating AIDS model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Aids_complete.R){:target='_blank_'}|
 |12 |26/09|Time series model and price analysis: <br /> <br /> First we will look at: Vector Error Correction Models (Chapter - 13 from Principles of Econometrics, PP is available on Canvas), [R code ](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter_13.R){:target='_blank_'}  <br /> Then, we will do price analysis within fresh salmon supply chain using error correction model (Read the article: [price transmission](https://www.tandfonline.com/doi/full/10.1080/13657305.2014.903309){:target='_blank_'} before class). Also, check some of the articles from your reading list)  |
 |13|28/09|Present your research topic and data for term paper one <br /> (5-10 min presentation)|
-|14|||
-|15|||
+||||
+|14|05/10|will continue looking at VECM in relation to [price analysis within salmon supply chain](https://dejenegizawkidane.github.io/PT/SOK-3008_price_analysis.html){:target='_blank_'}|
+|15|06/10|Volatility analysis (Chapter - 14 from Principles of Econometrics, PP is available on Canvas), [R code ](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter_13.R){:target='_blank_'}  <br /> |
