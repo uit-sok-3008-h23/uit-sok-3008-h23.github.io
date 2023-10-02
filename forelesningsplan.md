@@ -25,7 +25,8 @@
 |14|05/10|will continue looking at VECM in relation to [price analysis within salmon supply chain](https://dejenegizawkidane.github.io/PT/SOK-3008_price_analysis.html){:target='_blank_'}|
 ||||
 |15|06/10|Volatility and modeling volatility using ARCH models (Chapter - 14 from Principles of Econometrics, PP is available on Canvas), [R code ](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter_14.R){:target='_blank_'}  <br /> |
-||||
-||||
-||||
-||||
+|16|||
+|17|||
+|18|||
+|19|||
+|20|||
