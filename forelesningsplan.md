@@ -17,16 +17,12 @@
 | 9               |  18/09  |  Estimate Rotterdam Model using R <br/> [Guiding R code for Rotterdam model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Rotterdam_model_student%20.R){:target='_blank_'} <br /> <br /> [Complete cod for estimating Rotterdam model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Rotterdam_model_complete_2.R){:target='_blank_'}    |
 |10 | 20/09| we will continue from where we stoped in the last session and finalize estimation of the Rotterdam model <br /> <br />  Then, we will start looking at the:<br /> AIDS Model Properties, derivation, elasticity formulas, restrictions (homogeneity, symmetry, and adding-up).<br /> Empirical specification, estimation.|
 |11 | 21/09 |Estimate AIDS Model using R <br /> <br /> [erer package](https://cran.r-project.org/web/packages/erer/erer.pdf){:target='_blank_'} <br />  [micEconAids](https://cran.r-project.org/web/packages/micEconAids/vignettes/micEconAids_vignette.pdf){:target='_blank_'} <br /> <br />  [R code for estimating AIDS model](https://github.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/blob/main/Aids_complete.R){:target='_blank_'}|
-||||
 |12 |26/09|Time series model and price analysis: <br /> <br /> First we will look at: Vector Error Correction Models (Chapter - 13 from Principles of Econometrics, PP is available on Canvas), [R code ](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter_13.R){:target='_blank_'}  <br /> Then, we will do price analysis within fresh salmon supply chain using error correction model (Read the article: [price transmission](https://www.tandfonline.com/doi/full/10.1080/13657305.2014.903309){:target='_blank_'} before class). Also, check some of the articles from your reading list)  |
-||||
 |13|28/09|Present your research topic and data for term paper one <br /> (5-10 min presentation)|
-||||
 |14|05/10|will continue looking at VECM in relation to [price analysis within salmon supply chain](https://dejenegizawkidane.github.io/PT/SOK-3008_price_analysis.html){:target='_blank_'}|
-||||
 |15|06/10|Volatility and modeling volatility using ARCH models (Chapter - 14 from Principles of Econometrics, PP is available on Canvas), [R code ](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter_14.R){:target='_blank_'}  <br /> |
-|16|||
-|17|||
-|18|||
-|19|||
-|20|||
+|16| 10/10 | Chapter 16 POE5, Qualitative and Limited Dependent Variable Models |
+|17| 16/10 | Chapter 15 POE5, Panel Data Models |
+|18| 19/10 | Chapter 15 POE5, Panel Data Models |
+|19| 26/10 | Chapter 15 POE5, Panel Data Models |
+
