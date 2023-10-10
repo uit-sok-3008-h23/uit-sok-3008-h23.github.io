@@ -22,9 +22,11 @@
 |14|05/10|will continue looking at VECM in relation to [price analysis within salmon supply chain](https://dejenegizawkidane.github.io/PT/SOK-3008_price_analysis.html){:target='_blank_'}|
 |15|06/10|Volatility and modeling volatility using ARCH models (Chapter - 14 from Principles of Econometrics, PP is available on Canvas), [R code ](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter_14.R){:target='_blank_'}  <br /> |
 |16| 10/10 | Chapter 16 POE5, Qualitative and Limited Dependent Variable Models |
-|  |       | Chapter 2 & 4 Franses, Paap 2001 (in Canvas Files) |
+|  |       | Chapter 2 & 4 Franses, Paap 2001 (in Canvas - Files) |
 |  |       |  [R code](https://raw.githubusercontent.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/main/Chap_16_logit_probit.R){:target='_blank_'}      |
+|  |       |  [My scribbling notes](https://uit-sok-3008-h23.github.io/Notat%2010.%20okt.%202023.pdf){:target='_blank_'}     |
 |17| 16/10 | Chapter 15 POE5, Panel Data Models |
+|  |       | Chapter 13 & 14 Wooldridge 5th ed., 2012 (in Canvas - Files) |
 |18| 19/10 | Chapter 15 POE5, Panel Data Models |
 |19| 26/10 | Chapter 15 POE5, Panel Data Models |
 
