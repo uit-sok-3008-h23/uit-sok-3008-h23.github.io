@@ -29,4 +29,5 @@
 |  |       | Chapter 13 & 14 Wooldridge 5th ed., 2012 (in Canvas - Files) |
 |18| 19/10 | Chapter 15 POE5, Panel Data Models |
 |19| 26/10 | Chapter 15 POE5, Panel Data Models |
-
+|   |      | [Where to get data and ideas for term paper 2?](https://docs.google.com/document/d/e/2PACX-1vTwM6iOGHRjRG07-WGgLUTaD2BL2pnEIb8uPdD378aEFZATSnhyd7ag8TSeRxdKC-1pTyV_p4wZ9Go-/pub){:target='_blank_'}  |
+| **Deadline**   | 11/12    |  Tentative deadline for submission of term paper 2                      |
