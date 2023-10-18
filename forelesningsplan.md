@@ -25,10 +25,10 @@
 |  |       | Chapter 2 & 4 Franses, Paap 2001 (in Canvas - Files) |
 |  |       |  [R code](https://raw.githubusercontent.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/main/Chap_16_logit_probit.R){:target='_blank_'}      |
 |  |       |  [My scribbling notes](https://uit-sok-3008-h23.github.io/Notat%2010.%20okt.%202023.pdf){:target='_blank_'}     |
-|17| 16/10 | Chapter 15 POE5, Panel Data Models |
+|17| 16/10 | Chapter 15 POE5, Panel Data Models I |
 |  |       | Chapter 13 & 14 Wooldridge 5th ed., 2012 (PDFs in Canvas - Files) |
 |   |       |  R code for Chapter 15 and Wooldridge in Canvas - Files            |
-|18| 19/10 | Continue on  Chapter 15 POE5, Panel Data Models |
+|18| 19/10 | Continue on  Chapter 15 POE5, Panel Data Models II |
 |19| 26/10 | Chapter 15 POE5, Panel Data Models - More on estimation, interpretation  |
 |  |      |  We will work through the following exercises from Chapter 15: 18, 22, 29 & 30. PDFs of text in Canvas - Files               |
 |  |      |  There will be a lot of details, so you are advised to have a try at these before the seminar                      |
