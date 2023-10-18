@@ -26,7 +26,7 @@
 |  |       |  [R code](https://raw.githubusercontent.com/uit-sok-3008-h23/uit-sok-3008-h23.github.io/main/Chap_16_logit_probit.R){:target='_blank_'}      |
 |  |       |  [My scribbling notes](https://uit-sok-3008-h23.github.io/Notat%2010.%20okt.%202023.pdf){:target='_blank_'}     |
 |17| 16/10 | Chapter 15 POE5, Panel Data Models |
-|  |       | Chapter 13 & 14 Wooldridge 5th ed., 2012 (in Canvas - Files) |
+|  |       | Chapter 13 & 14 Wooldridge 5th ed., 2012 (PDFs in Canvas - Files) |
 |   |       |  R code for Chapter 15 and Wooldridge in Canvas - Files            |
 |18| 19/10 | Continue on  Chapter 15 POE5, Panel Data Models |
 |19| 26/10 | Chapter 15 POE5, Panel Data Models - More on estimation, interpretation  |
