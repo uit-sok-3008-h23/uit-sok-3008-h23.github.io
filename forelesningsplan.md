@@ -32,5 +32,5 @@
 |19| 26/10 | Chapter 15 POE5, Panel Data Models - More on estimation, interpretation  |
 |  |      |  We will work through the following exercises from Chapter 15: 18, 22, 29 & 30. PDFs of text in Canvas - Files               |
 |  |      |  There will be a lot of details, so you are advised to have a try at these before the seminar                      |
-| Term paper 2  |      | [Where to get data and ideas for term paper 2?](https://docs.google.com/document/d/e/2PACX-1vTwM6iOGHRjRG07-WGgLUTaD2BL2pnEIb8uPdD378aEFZATSnhyd7ag8TSeRxdKC-1pTyV_p4wZ9Go-/pub){:target='_blank_'} <br /> <br /> Also, [more sources for price analysis](https://uit.instructure.com/courses/31424/files?preview=2663537)){:target='_blank_'} <br /> <br />  |
+| Term paper 2  |      | [Where to get data and ideas for term paper 2?](https://docs.google.com/document/d/e/2PACX-1vTwM6iOGHRjRG07-WGgLUTaD2BL2pnEIb8uPdD378aEFZATSnhyd7ag8TSeRxdKC-1pTyV_p4wZ9Go-/pub){:target='_blank_'} <br /> <br /> Also, [more sources for price analysis](https://uit.instructure.com/courses/31424/files?preview=2663537){:target='_blank_'} <br /> <br />  |
 | **Deadline**   | 11/12    |  Tentative deadline for submission of term paper 2                      |
